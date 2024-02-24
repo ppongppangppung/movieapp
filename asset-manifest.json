@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ppongppangppung/movieapp/static/js/main.c5bdc51d.js",
-    "index.html": "/ppongppangppung/movieapp/index.html",
-    "main.c5bdc51d.js.map": "/ppongppangppung/movieapp/static/js/main.c5bdc51d.js.map"
+    "main.js": "/movieapp/static/js/main.dbcce103.js",
+    "index.html": "/movieapp/index.html",
+    "main.dbcce103.js.map": "/movieapp/static/js/main.dbcce103.js.map"
   },
   "entrypoints": [
-    "static/js/main.c5bdc51d.js"
+    "static/js/main.dbcce103.js"
   ]
 }
